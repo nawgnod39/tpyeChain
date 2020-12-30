@@ -1,1 +1,1 @@
-# tpyeChain
+# typeChain
